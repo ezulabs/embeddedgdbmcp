@@ -258,15 +258,13 @@ cargo build --release
 | **Team** | $99/mo | Pro features + team management, shared licenses |
 | **Enterprise** | Custom | SSO, audit logs, dedicated support |
 
-[Get Started Free →](https://ezulabs.com/products/embedded-gdb-mcp)
+**Interested?** Email us at contact@ezulabs.com
 
 ---
 
-## Links
+## Support
 
-- 📖 **Documentation**: [ezulabs.com/docs](https://ezulabs.com/products/embedded-gdb-mcp/docs)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/ezulabs/embeddedgdbmcp/issues)
-- 💬 **Discord**: [Join Community](https://discord.gg/embedded-gdb-mcp)
 - 📧 **Email**: contact@ezulabs.com
 
 ---
